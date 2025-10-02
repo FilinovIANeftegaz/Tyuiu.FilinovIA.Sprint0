@@ -1,0 +1,11 @@
+﻿namespace Tyuiu.FilinovIA.Sprint0.Task.V0.Test
+{
+    [TestClass]
+    public sealed class Test1
+    {
+        [TestMethod]
+        public void TestMethod1()
+        {
+        }
+    }
+}
